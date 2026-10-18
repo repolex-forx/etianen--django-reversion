@@ -1,0 +1,11 @@
+{
+  "org": "etianen",
+  "repo": "django-reversion",
+  "versions": [
+    {
+      "commit": "abfd7d7d3617224eb267311f9379fabb1f8cec59",
+      "tag": "v6.4.0",
+      "parsed_at": "2026-10-18T13:18:59.163504+00:00"
+    }
+  ]
+}
