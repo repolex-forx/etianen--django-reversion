@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/etianen/django-reversion/commit/abfd7d7d3617224eb267311f9379fabb1f8cec59",
       "git:hexsha": "abfd7d7d3617224eb267311f9379fabb1f8cec59",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v6.4.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v6.4.0",
+      "repolex:parsedAt": "2026-10-18T13:18:59.162607+00:00"
     },
     {
       "@id": "https://repolex.ai/r/etianen/django-reversion/commit/6ddb6728419039cd4089ea524bdfb37fd33dd45e",
